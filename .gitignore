@@ -1,0 +1,8 @@
+datagen.py
+evaluate.py
+/data
+app/.env
+/myenv
+/__pycache__
+build.sh
+app/__pycache__

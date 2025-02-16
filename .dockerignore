@@ -1,0 +1,7 @@
+evaluate.py
+app/.env
+myenv
+/__pycache__
+Dockerfile
+build.sh
+app/__pycache__
